@@ -1,0 +1,24 @@
+
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": ["PavelDobCZ23"],
+        "url": "https://www.icecraftstudio.repl.co",
+        "license": "GNU GPL v3 + The Commons Clause"
+    },
+    "header": {
+        "description": "Brings back the librarian villager trades from versions before 1.20.30! §1Made by PavelDobCZ23",
+        "name": "Old Librarian Trades",
+        "uuid": "8350905f-c1e0-4c76-ae73-840ac15fc1f1",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 20, 30 ]
+    },
+    "modules": [
+        {
+            "description": "Old Librarian Trades - data module",
+            "type": "data",
+            "uuid": "aa205871-4067-4676-a7a5-39cc3ad9ad0d",
+            "version": [1, 0, 0]
+        }
+    ]
+}
